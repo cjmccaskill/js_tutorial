@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "twisted-palindrome": "^0.1.0"
+    "jsdom": "^16.4.0",
+    "twisted-palindrome": "^0.1.0",
+    "urllib": "^2.36.1"
   }
 }
